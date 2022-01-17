@@ -1,0 +1,4 @@
+- Sport
+- Skor
+- Mat
+- Kläder
